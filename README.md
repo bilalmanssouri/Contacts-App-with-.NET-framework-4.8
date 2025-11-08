@@ -7,3 +7,6 @@ Contacts List App Is a Desktop 3-tier architecture app, built with C# & SQL serv
 - ADO.NET Connection Technology
 - 3-Tier Architecture
 - Including CRUD operations
+## Important!
+- There's no validation or code have done yet.
+- The main goal is to practice connecting C# app with Database using ADO.NET.
