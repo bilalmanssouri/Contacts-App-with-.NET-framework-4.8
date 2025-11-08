@@ -10,3 +10,9 @@ Contacts List App Is a Desktop 3-tier architecture app, built with C# & SQL serv
 ## Important!
 - There's no validation or code have done yet.
 - The main goal is to practice connecting C# app with Database using ADO.NET.
+## Quick Setup for Visual Studio
+- Clone or Install the repo files
+- Restore Database file in SQL Server 'ContactsDB' bak file.
+- Open the 'ContactsWinFormSolution' file
+- In 'ContactsPresentationLayer' select 'WindowsFormsContactsApp.slnx' file
+- In Visual Studio Click Start at the top of VS
