@@ -1,4 +1,4 @@
-# Contacts-App-with-.NET-framework-4.8
+# Contacts-App-with-ADO.NET
 Building Contact App With ADO.NET Connection Technology.
 ## About
 Contacts List App Is a Desktop 3-tier architecture app, built with C# & SQL server using ADO.NET Connection Technology.
